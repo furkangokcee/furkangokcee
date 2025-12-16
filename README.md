@@ -13,5 +13,5 @@ Mekanik bilgisimi yazılım yeteneğiyle birleştirerek, multidisipliner projele
 🛠 **ARAÇLAR & YETKİNLİKLER** 🛠
 - **Mühendislik:** Makine Dinamiği, Mekanik Tasarım
 
-💻 ** ALANIM ** 💻
+💻 **ALANIM** 💻
 - **Yazılım (Öğrenme Aşamasında):** Unity, C#
