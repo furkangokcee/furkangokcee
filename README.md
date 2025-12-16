@@ -1,16 +1,17 @@
-## Hi there 👋
+-------------------👤 **H  A  K  K  I  M  D  A** 👤-------------------
 
-<!--
-**furkangokcee/furkangokcee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 **UŞAK ÜNİVERSİTESİ MAKİNE MÜHENDİSLİĞİ** 👨‍🎓
 
-Here are some ideas to get you started:
+🔭 **ŞU AN NE YAPIYORUM?** 🔭
+- Mekanik sistemlerin çalışma prensiplerini oyun motorları (Unity) üzerinde simüle etmeyi öğreniyorum.
+- Algoritma mantığını kavramak ve C# diline aşinalık kazanmak için çalışmalar yapıyorum.
+- Yapay zeka araçlarını bir "eğitim asistanı" olarak kullanarak kod okuryazarlığımı geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏹 **HEDEFİM** 🏹
+Mekanik bilgisimi yazılım yeteneğiyle birleştirerek, multidisipliner projelerde (Simülasyon, Otonom Sistemler vb.) görev alabilecek yetkinliğe ulaşmak.
+
+🛠 **ARAÇLAR & YETKİNLİKLER** 🛠
+- **Mühendislik:** Makine Dinamiği, Mekanik Tasarım
+
+💻 ** ALANIM ** 💻
+- **Yazılım (Öğrenme Aşamasında):** Unity, C#
