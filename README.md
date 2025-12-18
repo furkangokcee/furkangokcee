@@ -8,7 +8,7 @@
 - Yapay zeka araçlarını bir "eğitim asistanı" olarak kullanarak kod okuryazarlığımı geliştiriyorum.
 
 🏹 **HEDEFİM** 🏹
-Mekanik bilgimi yazılım yeteneğiyle birleştirerek, multidisipliner projelerde (Simülasyon, Otonom Sistemler vb.) görev alabilecek yetkinliğe ulaşmak.
+- Mekanik bilgimi yazılım yeteneğiyle birleştirerek, multidisipliner projelerde (Simülasyon, Otonom Sistemler vb.) görev alabilecek yetkinliğe ulaşmak.
 
 🛠 **ARAÇLAR & YETKİNLİKLER** 🛠
 - **Mühendislik:** Makine Dinamiği, Mekanik Tasarım
